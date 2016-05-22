@@ -1,0 +1,14 @@
+layout_spectrum: 0.5731655959971249
+typography_spectrum: 0.9617184938397259
+color:
+  brandStrength: 0.8917194807436317
+  lightness: 0.7665629470720887
+  saturation: 0.24615382426418364
+  rhythmicContrast: 0.10655540553852916
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: fabian-berg.photo
