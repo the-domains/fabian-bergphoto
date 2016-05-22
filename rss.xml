@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[fabian-berg.photo]]></title>
         <description><![CDATA[fabian-berg.photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fabian-bergphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 17:33:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 17:33:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fabian-bergphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remembering Prince: What The Purple One Can Teach You About Creativity]]></title>
+            <description><![CDATA[<article><h1>Remembering Prince: What The Purple One Can Teach You About Creativity</h1><p>Join Entrepreneur and today's most influential business innovators in Denver, May 4. Register Now " Prince, a pioneering musician and creative, died today at 57. This game-changing artist merged his special take on funk and rock into 39 albums, creating classics such as Purple Rain and Little Red Corvette.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f82bbbcf6c1a7fb1116234d47a5656ca64c6d538.jpg"></article>]]></description>
+            <link>https://www.entrepreneur.com/article/274499</link>
+            <guid isPermaLink="false">7d1e3ec5-35e8-4f2c-91e3-8b5f06dada8e</guid>
+            <pubDate>Sun, 22 May 2016 17:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
             <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
